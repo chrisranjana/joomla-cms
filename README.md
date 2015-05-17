@@ -63,6 +63,7 @@ Where can you get support and help?
 * [The Joomla! Documentation](https://docs.joomla.org/Main_Page);
 * [Frequently Asked Questions](https://docs.joomla.org/Category:FAQ) (FAQ);
 * Find the [information you need](https://docs.joomla.org/Start_here);
+* https://www.chrisranjana.com/latestworkportfolio/joomlaarchivecomponent.html
 * Find [help and other users](http://www.joomla.org/about-joomla/create-and-share.html);
 * Post questions at [our forums](http://forum.joomla.org);
 * [Joomla Resources Directory](http://resources.joomla.org/) (JRD).
